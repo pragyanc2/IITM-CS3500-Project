@@ -1,4 +1,4 @@
-#Security Aware Scheduling
+# Security Aware Scheduling
 
 This was done as a course project for CS3500: Operating Systems at IIT Madras
 
